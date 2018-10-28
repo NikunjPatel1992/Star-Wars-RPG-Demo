@@ -1,0 +1,26 @@
+body{
+    background-image: url(../image/bg11.jpeg);
+    
+}
+h1{
+   
+}
+.container-found{
+    color: red;
+}
+img{
+    height: 150px;
+    width: 235px;
+    float: left;
+    
+}
+.character{
+    font-size: 30px;
+    display: block;
+    float: left;    
+    width: 200px;
+    text-align: center;
+}
+.title{
+    text-align: center;
+}
